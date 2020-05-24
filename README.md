@@ -3,5 +3,3 @@
 練習 pull = fetch + merge
 
 12/10 vscode
-
-test clone
